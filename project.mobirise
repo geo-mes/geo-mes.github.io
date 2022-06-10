@@ -1,7 +1,7 @@
 {
   "settings": {
     "name": "GEO-MES Maciej Stanicki",
-    "currentPage": "Strona główna.html",
+    "currentPage": "Mapa do celów projektowych.html",
     "theme": {
       "name": "mobirise5",
       "title": "Mobirise 5",
@@ -49,7 +49,7 @@
       }
     ],
     "favicon": "@PROJECT_PATH@/assets/images/logo_2.jpg",
-    "mbrsiteDomain": "utzmserj6e",
+    "mbrsiteDomain": "3nckvaorsb",
     "imageResize": false,
     "robotsSwitcher": false,
     "sitemapSwitcher": true,
@@ -57,7 +57,7 @@
     "siteUrl": "http://geo-mes.eu",
     "cookiesAlert": false,
     "gdpr": false,
-    "uniqCompNum": 34,
+    "uniqCompNum": 40,
     "versionPublish": "5.6.8",
     "publishChangesOnly": false,
     "screenshot": "screenshot.png"
@@ -66,7 +66,7 @@
     "Mapa do celów projektowych.html": {
       "settings": {
         "title": "GEO-MES Maciej Stanicki / Mapa do celów projektowych",
-        "order": 1,
+        "order": 2,
         "meta_descr": "Mapa do celów projektowych"
       },
       "components": [
@@ -557,7 +557,7 @@
     "Wytyczenia budynków i budowli.html": {
       "settings": {
         "title": "GEO-MES Maciej Stanicki / Wytyczenia budynków i budowli",
-        "order": 2,
+        "order": 3,
         "meta_descr": "Wytyczenia budynków i budowli"
       },
       "components": [
@@ -1048,7 +1048,7 @@
     "Geodezyjne inwentaryzacje powykonawcze.html": {
       "settings": {
         "title": "GEO-MES Maciej Stanicki / Geodezyjne inwentaryzacje powykonawcze",
-        "order": 3,
+        "order": 4,
         "meta_descr": "Geodezyjne inwentaryzacje powykonawcze"
       },
       "components": [
@@ -1539,7 +1539,7 @@
     "Wznowienia znaków granicznych Wyznaczenia punktów granicznych.html": {
       "settings": {
         "title": "GEO-MES Maciej Stanicki / Wznowienia znaków granicznych Wyznaczenia punktów granicznych",
-        "order": 4,
+        "order": 5,
         "meta_descr": "Wznowienia znaków granicznych Wyznaczenia punktów granicznych"
       },
       "components": [
@@ -2030,7 +2030,7 @@
     "Podziały nieruchomości.html": {
       "settings": {
         "title": "GEO-MES Maciej Stanicki / Podziały nieruchomości",
-        "order": 5,
+        "order": 6,
         "meta_descr": "Podziały nieruchomości"
       },
       "components": [
