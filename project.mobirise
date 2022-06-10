@@ -48,7 +48,7 @@
         "url": "https://fonts.googleapis.com/css?family=Anton:400"
       }
     ],
-    "favicon": false,
+    "favicon": "@PROJECT_PATH@/assets/images/logo_1.jpg",
     "mbrsiteDomain": "geo-mes",
     "imageResize": false,
     "robotsSwitcher": false,
