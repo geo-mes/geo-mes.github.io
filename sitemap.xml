@@ -1,8 +1,5 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
 	<url>
-		<loc>http://geo-mes.eu/index.html</loc>
-	</url>
-	<url>
 		<loc>http://geo-mes.eu/Mapa do celów projektowych.html</loc>
 	</url>
 	<url>
@@ -16,5 +13,8 @@
 	</url>
 	<url>
 		<loc>http://geo-mes.eu/Podziały nieruchomości.html</loc>
+	</url>
+	<url>
+		<loc>http://geo-mes.eu/Strona główna.html</loc>
 	</url>
 </urlset>
